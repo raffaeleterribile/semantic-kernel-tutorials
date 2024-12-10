@@ -1,27 +1,27 @@
 [
   {
-    "title": "Touch",
-    "artist": "Cat\u0027s Eye",
-    "genre": "Pop"
+    "title": "Danse",
+    "artist": "Tiara",
+    "genre": "French pop, electropop, pop"
   },
   {
     "title": "Loanh Quanh",
-    "artist": "Mademoiselle",
+    "artist": "Ly Hoa",
     "genre": "indie, folk"
   },
   {
     "title": "Kalam Eineh",
-    "artist": "Sherine",
+    "artist": "Yasemin",
     "genre": "pop, Egyptian pop"
   },
   {
     "title": "I Miss You",
-    "artist": "Shing02",
+    "artist": "Chishin",
     "genre": "hiphop, rap"
   },
   {
     "title": "4EVER",
-    "artist": "Clairo",
+    "artist": "Gaby",
     "genre": "alternative, indie"
   }
 ]
